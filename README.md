@@ -58,9 +58,9 @@ int main() {
 ```
 
 ## Roadmap
-- [ ] Basic types.
+- [x] Basic types.
+- [ ] Data structures for Thread Pool.
 - [ ] Task queue.
-
 - [ ] Task prioritization.
 - [ ] Graceful shutdown feature.
 - [ ] Extendable with custom task executors.
