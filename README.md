@@ -4,7 +4,7 @@
 A simple and efficient ThreadPool implementation for modern C++. 
 
 ## Introduction
-Welcome to TritonThreadPool! 🚀
+Hi, Welcome to TritonThreadPool! 🚀
 
 TritonThreadPool is a cross-platform, high-performance C++11 (and above) thread pool implementation without any third-party dependencies. Inspired by content from the book "C++ Concurrency in Action (2nd Edition)" and some outstanding implementations on GitHub, this project has undergone extensive modifications, expansions, and optimizations. As a result, it offers significant enhancements in terms of functionality, performance, and user-friendliness. The essence of TritonThreadPool is to provide a mechanism that efficiently manages and dispatches tasks across multiple threads. By utilizing a thread pool, it minimizes the number of threads being created and destroyed, optimizing system resources and boosting performance.
 
